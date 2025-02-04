@@ -21,10 +21,9 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center" style="display: flex; justify-content: center;">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,tailwind,postman,github,linux,git,docker,playwright,html,selenium,notion,discord" alt="Tech Stack" />
 </p>
-
 
 ---
 
