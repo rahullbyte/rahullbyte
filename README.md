@@ -30,10 +30,6 @@
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=rahullbyte&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahullbyte&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
