@@ -1,48 +1,63 @@
-### Hi there, I'm Rahul Patil! 👋
+<h1 align="center">🚀 Rahul Patil - Full Stack Engineer & Automation QA 🚀</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rahullbyte&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-### 🚀 About Me:
-
-- 💻 Full Stack Engineer & Automation QA @ [Bezt Labs](https://bezt.in)
-- 🌱 Currently working on **Drinktr** (My Own Product) - A Web & Mobile App for Vendors and Users
-- 👀 Passionate about JavaScript, Automation Testing & Product Development
-- 💞️ Open to collaborations on Full Stack Development & Test Automation
-- 📫 Reach me at: **errahul.rp@gmail.com**
-- 🌎 Portfolio: [rahulbyte.dev](https://rahulbyte.dev)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahullbyte&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack:
+## 🌟 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
-![Linux (Ubuntu)](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=white)
+👋 Hi, I'm **Rahul Patil**, a passionate Full Stack Engineer & Automation QA with expertise in building scalable applications and automating workflows. I take ownership of projects from ideation to execution, ensuring high-quality deliverables.
 
----
+💼 Currently, I'm working at **[Bezt Labs](https://bezt.in)** and leading development on my own product, **[Drinktr](https://drinktr.in)**.
 
-### 📈 GitHub Stats:
+🎯 My goal is to craft seamless user experiences, write efficient code, and streamline testing pipelines to enhance productivity.
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahullbyte&show_icons=true&theme=radical)
-
-![Rahul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahullbyte&layout=compact&theme=radical)
+📬 Contact me at: **[errahul.rp@gmail.com](mailto:errahul.rp@gmail.com)**  
+🌎 Portfolio: **[rahulbyte.dev](https://rahulbyte.dev)**
 
 ---
 
-### 🔗 Connect with Me:
+## 🛠️ Tech Stack & Tools
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/rahul-patil-02b2a2273)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rahullbyte)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://rahulbyte.dev)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,postman,github,linux,git,ci/cd,docker" alt="Tech Stack" />
+</p>
 
 ---
 
-### ⚡ Fun Fact:
+## 📊 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullbyte&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahullbyte&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullbyte&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="http://linkedin.com/in/rahul-patil-02b2a2273">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rahullbyte">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://rahulbyte.dev">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
 I automated the testing of a blockchain app and reduced manual testing time by **40%**! 🚀
