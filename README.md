@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,postman,github,linux,git,ci/cd,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,postman,github,linux,git,docker" alt="Tech Stack" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahullbyte&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=rahullbyte&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
