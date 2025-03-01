@@ -14,7 +14,7 @@
 
 🎯 My goal is to craft seamless user experiences, write efficient code, and streamline testing pipelines to enhance productivity.
 
-📬 Contact me at: **[errahul.rp@gmail.com](mailto:errahul.rp@gmail.com)**  
+📬 Contact me at: **[errahul.rp@gmail.com](mailto:hireme@rahulbyte.dev)**  
 🌎 Portfolio: **[rahulbyte.dev](https://rahulbyte.dev)**
 
 ---
