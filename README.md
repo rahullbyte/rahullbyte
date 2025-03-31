@@ -10,7 +10,7 @@
 
 👋 Hi, I'm **Rahul Patil**, a passionate Full Stack Engineer & Automation QA with expertise in building scalable applications and automating workflows. I take ownership of projects from ideation to execution, ensuring high-quality deliverables.
 
-💼 Currently, I'm working at **[Bezt Labs](https://bezt.in)** and leading development on my own product, **[Drinktr](https://drinktr.com)**.
+💼 Currently, I'm working on **[Drinktr](https://drinktr.com)** leading development on my own product.
 
 🎯 My goal is to craft seamless user experiences, write efficient code, and streamline testing pipelines to enhance productivity.
 
