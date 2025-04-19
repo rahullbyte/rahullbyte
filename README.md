@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-👋 Hi, I'm **Rahul Patil**, a passionate Full Stack Engineer & Automation QA with expertise in building scalable applications and automating workflows. I take ownership of projects from ideation to execution, ensuring high-quality deliverables.
+👋 Hi, I'm **Rahul Patil**, a passionate Full Stack Engineer & QA Automation Engineer with expertise in building scalable applications and automating workflows. I take ownership of projects from ideation to execution, ensuring high-quality deliverables.
 
 💼 Currently, I'm working on **[Drinktr](https://drinktr.com)** leading development on my own product.
 
@@ -52,8 +52,3 @@
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
----
-
-## ⚡ Fun Fact
-I automated the testing of a blockchain app and reduced manual testing time by **40%**! 🚀
